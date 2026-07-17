@@ -12,9 +12,12 @@ Throughout this portfolio, I will share my guiding principles, technical project
 
 ## Portfolio Sections
 
-- Spiritual Portfolio
-- Professional Portfolio
-- Ethical Dilemmas
-- Reflections
-- Resume
-- Projects
+- [Spiritual Portfolio](spiritual.md)
+
+- [Professional Portfolio](professional.md)
+
+- [Projects](projects.md)
+
+- [Resume](resume.md)
+
+- [Reflection](reflection.md)
