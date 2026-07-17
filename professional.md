@@ -29,4 +29,4 @@ My goal is to work in Information Technology, especially in cybersecurity or sys
 ## Certifications
 
 - TestOut PC Pro
-- (Add new certifications as you earn them.)
+- ...
