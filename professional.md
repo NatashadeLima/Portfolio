@@ -26,9 +26,10 @@ One of my goals is to continue growing as an IT professional while maintaining t
 
 ---
 
-[⬅ Back to Home](index.md)
-
 ## Certifications
 
 - TestOut PC Pro
 - Intensive Computer Course, City Computer
+
+
+[⬅ Back to Home](index.md)
