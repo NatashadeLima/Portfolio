@@ -37,7 +37,7 @@ View projects that helped me develop my IT knowledge.
 ---
 
 
-## ⚖️ Ethical Dilemma
+### ⚖️ Ethical Dilemma
 
 Read my analysis of an ethical dilemma in Information Technology and my reflections on professional responsibility, integrity, and ethical decision-making.
 
