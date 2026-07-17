@@ -63,3 +63,6 @@ Kindness, patience, and respect should always influence the way I work with othe
 ## My Growth
 
 As I continue learning, I hope to strengthen my faith, develop my professional abilities, and become someone others can trust. I believe that spiritual growth and professional growth work together, helping me become a better disciple of Jesus Christ and a better Information Technology professional.
+
+
+[⬅ Back to Home](index.md)
