@@ -1,5 +1,5 @@
 # Resume
 
-You can download my current resume below.
+Welcome! You can view or download my current resume below.
 
-(Natasha_de_Lima_CV_Eng.pdf)
+📄 **[Download My Resume](files/Natasha_de_Lima_CV_Eng.pdf)**
