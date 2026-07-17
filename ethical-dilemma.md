@@ -9,3 +9,6 @@ When organizations discover unauthorized access, they usually respond quickly. T
 This situation demonstrates that technical knowledge alone is not enough to become a successful IT professional. Professionals who work with sensitive information must also demonstrate honesty, accountability, and respect for privacy. Access to confidential data should always be limited to authorized business purposes, regardless of personal curiosity or convenience.
 
 This ethical dilemma has helped me understand that trust is one of the most valuable responsibilities in Information Technology. As I continue preparing for my career, I want to use my technical knowledge responsibly, protect sensitive information, and always follow ethical and professional standards. I believe that integrity is just as important as technical ability because organizations depend on IT professionals to protect both their systems and the people who trust them.
+
+
+[⬅ Back to Home](index.md)
