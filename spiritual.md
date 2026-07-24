@@ -75,9 +75,9 @@ As I pursue my education in Information Technology and prepare for my future car
 
 > "For behold, it is not meet that I should command in all things; for he that is compelled in all things, the same is a slothful and not a wise servant; wherefore he receiveth no reward."
 
-"Verily I say, men should be anxiously engaged in a good cause, and do many things of their own free will, and bring to pass much righteousness;"
+> "Verily I say, men should be anxiously engaged in a good cause, and do many things of their own free will, and bring to pass much righteousness;"
 
-"For the power is in them, wherein they are agents unto themselves. And inasmuch as men do good they shall in nowise lose their reward."
+> "For the power is in them, wherein they are agents unto themselves. And inasmuch as men do good they shall in nowise lose their reward."
 
 This scripture reminds me that God expects me to use my agency with purpose and to take initiative in doing good rather than waiting to be told what to do. It has become especially meaningful to me this week as I reflected on my temple recommend interviews and my opportunity to serve as the leader for the schedule and activities of the CJAS conference in Brazil.
 
