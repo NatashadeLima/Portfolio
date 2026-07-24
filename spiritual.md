@@ -85,6 +85,22 @@ Through these experiences, I have come to better understand what it means to be 
 
 ---
 
+### Song That Strengthens My Faith - Simon of Cyrene
+
+One song that has deeply strengthened my testimony is Simon of Cyrene, written by Gregory Reece and composed by Daniel Blomberg. The song reflects on Simon of Cyrene's experience helping the Savior carry His cross on the way to Golgotha. As I listen to it, I am reminded of the Savior's love, sacrifice, and perfect example of selfless service.
+
+One of the lines that touches me most is:
+
+> "Savior, may I help carry Your cross? Your burden can I somehow lighten?"
+
+These words encourage me to think about how I can become a better disciple of Jesus Christ by serving others with love and compassion. They remind me that following the Savior is not only about believing in Him but also about acting on that belief through service, kindness, and sacrifice.
+
+This song has become especially meaningful as I serve on the planning committee for the CJAS conference in Brazil. Although my responsibilities involve planning schedules and activities, this song reminds me that every opportunity to serve, no matter how small, is a way to help others come closer to Jesus Christ.
+
+As I continue my education in Information Technology, I hope to carry this same spirit of service into my professional life by using my knowledge and skills to help others, act with integrity, and make a positive difference wherever I work.
+
+---
+
 ### Recent Spiritual Reflection
 
 This week gave me a meaningful opportunity to reflect on my testimony and spiritual growth as I renewed my temple recommend. I first met with my bishop and later had an interview with a member of the stake presidency. These experiences encouraged me to thoughtfully consider the temple recommend questions and evaluate how I am living my faith each day. Rather than simply answering the questions, I found myself reflecting on my relationship with Jesus Christ, the covenants I have made, and the person I am striving to become.
