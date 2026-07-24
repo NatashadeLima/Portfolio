@@ -85,13 +85,13 @@ Through these experiences, I have come to better understand what it means to be 
 
 ---
 
-Personal Reflection
+### Personal Reflection
 
 This scripture reminds me that God expects me to use my agency with purpose and to take initiative in doing good rather than waiting to be told what to do. It has become especially meaningful to me this week as I reflected on my temple recommend interviews and my opportunity to serve as the leader for the schedule and activities of the CJAS conference in Brazil.
 
 Through these experiences, I have come to better understand what it means to be "anxiously engaged in a good cause." Serving others requires willingness, preparation, and faith, and I have seen how the Lord blesses our efforts when we choose to act with a willing heart. This scripture also inspires me as I pursue a career in Information Technology. I want to be someone who takes initiative, solves problems, acts ethically, and uses my knowledge and skills to make a positive difference in the lives of others.
 
-Recent Spiritual Reflection
+### Recent Spiritual Reflection
 
 This week gave me a meaningful opportunity to reflect on my testimony and spiritual growth as I renewed my temple recommend. I first met with my bishop and later had an interview with a member of the stake presidency. These experiences encouraged me to thoughtfully consider the temple recommend questions and evaluate how I am living my faith each day. Rather than simply answering the questions, I found myself reflecting on my relationship with Jesus Christ, the covenants I have made, and the person I am striving to become.
 
