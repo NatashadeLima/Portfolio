@@ -95,7 +95,7 @@ One of the lines that touches me most is:
 
 These words encourage me to think about how I can become a better disciple of Jesus Christ by serving others with love and compassion. They remind me that following the Savior is not only about believing in Him but also about acting on that belief through service, kindness, and sacrifice.
 
-This song has become especially meaningful as I serve on the planning committee for the CJAS conference in Brazil. Although my responsibilities involve planning schedules and activities, this song reminds me that every opportunity to serve, no matter how small, is a way to help others come closer to Jesus Christ.
+This song has become especially meaningful as I serve on the planning committee for the YSA conference in Brazil. Although my responsibilities involve planning schedules and activities, this song reminds me that every opportunity to serve, no matter how small, is a way to help others come closer to Jesus Christ.
 
 As I continue my education in Information Technology, I hope to carry this same spirit of service into my professional life by using my knowledge and skills to help others, act with integrity, and make a positive difference wherever I work.
 
