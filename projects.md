@@ -104,4 +104,53 @@ As I continue my education, I look forward to adding more projects that demonstr
 
 ---
 
+# Rock, Paper, Scissors (Python)
+
+## Overview
+
+This project involved developing a Rock, Paper, Scissors game using Python. The objective was to apply fundamental programming concepts such as variables, conditional statements, loops, functions, user input, and random number generation while creating an interactive application.
+
+## Technical Skills
+Python
+Functions
+Conditional Statements
+Loops
+Random Module
+Input Validation
+Debugging
+
+## What I Learned
+
+Developing this project strengthened my programming logic and problem-solving skills. I learned how to organize code into reusable functions, validate user input, and improve the overall structure of a program through testing and debugging.
+
+## Spiritual Connection
+
+This project taught me that growth often comes through patience and perseverance. Programming requires persistence because mistakes are part of the learning process. As I worked through challenges, I was reminded that continual improvement, both spiritually and professionally, comes from consistently learning, trying again, and trusting that each experience helps me become better.
+
+---
+
+# Personal Portfolio Website
+
+## Overview
+
+This project involved designing and developing a personal portfolio website using HTML, CSS, and JavaScript. The website serves as a central location to showcase my background, technical projects, educational journey, and professional development while practicing front-end web development principles.
+
+## Technical Skills
+HTML5
+CSS3
+JavaScript
+Responsive Web Design
+GitHub Pages
+User Interface Design
+
+## What I Learned
+
+Creating this website strengthened my understanding of front-end development and taught me how to organize information in a way that is both visually appealing and easy to navigate. It also improved my ability to communicate technical information professionally.
+
+## Spiritual Connection
+
+Building this portfolio reminded me that our talents can be used to uplift and serve others. Just as I carefully organized the content to make it accessible and meaningful, I want my future work in Information Technology to help people by creating solutions that are ethical, accessible, and beneficial to everyone.
+
+---
+
 [⬅ Back to Home](index.md)
