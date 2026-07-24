@@ -9,3 +9,6 @@ Another principle that strongly influences my professional goals is integrity. I
 Finally, service is a principle that connects both my spiritual life and my career goals. I believe technology should improve people's lives and make information more accessible. My experiences creating websites, developing software, and studying cybersecurity have shown me that technology is ultimately about helping people solve problems. This principle is also reflected in my current service as a leader for the schedule and activities of the CJAS conference in Brazil. Planning and serving others has taught me the value of teamwork, organization, patience, and compassion. These same qualities are important in the workplace, where collaboration and a desire to help others contribute to successful projects and positive professional relationships.
 
 As I continue my education in Information Technology, I hope to combine technical excellence with Christlike attributes. I want to be known not only for my skills but also for my honesty, kindness, reliability, and willingness to serve. My goal is to build a career where my professional decisions reflect my spiritual values and where I can use my knowledge to make a positive difference in the lives of others.
+
+
+[⬅ Back to Home](index.md)
