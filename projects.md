@@ -100,10 +100,6 @@ Programming has taught me perseverance. Finding and fixing errors requires patie
 
 ---
 
-As I continue my education, I look forward to adding more projects that demonstrate both my technical development and my commitment to serving others through technology.
-
----
-
 # Rock, Paper, Scissors (Python)
 
 ## Overview
@@ -150,6 +146,10 @@ Creating this website strengthened my understanding of front-end development and
 ## Spiritual Connection
 
 Building this portfolio reminded me that our talents can be used to uplift and serve others. Just as I carefully organized the content to make it accessible and meaningful, I want my future work in Information Technology to help people by creating solutions that are ethical, accessible, and beneficial to everyone.
+
+---
+
+As I continue my education in Information Technology, I look forward to expanding this portfolio with new projects that demonstrate both my technical growth and my commitment to ethical service. Each project represents more than a technical accomplishment; it reflects the values of faith, integrity, perseverance, and service that guide my personal and professional life. My goal is to use technology to solve meaningful problems, improve accessibility, and positively impact the lives of others.
 
 ---
 
