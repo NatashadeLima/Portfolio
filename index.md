@@ -26,7 +26,7 @@ Learn about the guiding principles that shape my life and career.
 
 Explore how my faith and spiritual principles influence my professional development in Information Technology. This section reflects on how values such as faith, integrity, and service guide my approach to ethical decision-making, continuous learning, and serving others through technology.
 
-➡️ [Open Professional and Spiritual Alignment](Professional%20and%20Spiritual%20Alignment.md)
+➡️ [Open Professional and Spiritual Alignment](Professional_and_Spiritual_Alignment.md)
 
 ---
 
