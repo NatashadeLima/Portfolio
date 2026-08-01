@@ -83,7 +83,9 @@ This portfolio showcases my academic journey, technical projects, professional e
 
 # Contact
 
-Thank you for visiting my portfolio!
+Thank you for taking the time to explore my portfolio.
+
+I hope it reflects both my technical growth and my commitment to serving others through integrity, lifelong learning, and faith.
 
 If you'd like to learn more about my work, feel free to connect with me.
 
