@@ -9,14 +9,25 @@ title: Home
 
 Welcome to my **Spiritual Progression and Professional Growth Portfolio**.
 
-I am pursuing a Bachelor's Degree in Information Technology at Ensign College. This portfolio highlights both my professional development and my spiritual journey. As I continue learning, I hope to use my technical knowledge to serve others, solve problems, and make ethical decisions that reflect my values.
+This portfolio showcases my academic journey, technical projects, professional experiences, and spiritual growth as I prepare for a career in Information Technology. Throughout my education, I have developed not only technical knowledge but also values such as integrity, service, lifelong learning, and faith in Jesus Christ, which guide both my personal and professional life.
 
 ---
+
+## Quick Navigation
+
+- 🌱 [Spiritual Portfolio](spiritual.md)
+- 🤝 [Professional and Spiritual Alignment](Professional_and_Spiritual_Alignment.md)
+- 📄 [Resume](resume.md)
+- 💼 [Professional Portfolio](professional.md)
+- 💻 [Technical Projects](projects.md)
+- ⚖️ [Ethical Dilemma](ethical-dilemma.md)
+- 🌟 [Reflection](reflection.md)
 
 ## Explore My Portfolio
 
 ### 🌱 Spiritual Portfolio
-Learn about the guiding principles that shape my life and career.
+
+> Learn about the guiding principles that shape my life and career.
 
 ➡️ [Open Spiritual Portfolio](spiritual.md)
 
@@ -24,28 +35,31 @@ Learn about the guiding principles that shape my life and career.
 
 ### 🤝 Professional and Spiritual Alignment
 
-Explore how my faith and spiritual principles influence my professional development in Information Technology. This section reflects on how values such as faith, integrity, and service guide my approach to ethical decision-making, continuous learning, and serving others through technology.
+> Explore how my faith and spiritual principles influence my professional development in Information Technology. This section reflects on how values such as faith, integrity, and service guide my approach to ethical decision-making, continuous learning, and serving others through technology.
 
 ➡️ [Open Professional and Spiritual Alignment](Professional_and_Spiritual_Alignment.md)
 
 ---
 
 ### 📄 Resume
-See my education, skills, and experience.
+
+> See my education, skills, and experience.
 
 ➡️ [Open Resume](resume.md)
 
 ---
 
 ### 💼 Professional Portfolio
-Read about my career goals, skills, and experiences.
+
+> Read about my career goals, skills, and experiences.
 
 ➡️ [Open Professional Portfolio](professional.md)
 
 ---
 
 ### 💻 Technical Projects
-View projects that helped me develop my IT knowledge.
+
+> View projects that helped me develop my IT knowledge.
 
 ➡️ [Open Projects](projects.md)
 
@@ -53,13 +67,31 @@ View projects that helped me develop my IT knowledge.
 
 ### ⚖️ Ethical Dilemma
 
-Read my analysis of an ethical dilemma in Information Technology and my reflections on professional responsibility, integrity, and ethical decision-making.
+> Read my analysis of an ethical dilemma in Information Technology and my reflections on professional responsibility, integrity, and ethical decision-making.
 
 ➡️ [Open Ethical Dilemma](ethical-dilemma.md)
 
 ---
 
 ### 🌟 Reflection
-Read my reflections on spiritual and professional growth.
+
+> Read my reflections on spiritual and professional growth.
 
 ➡️ [Open Reflection](reflection.md)
+
+---
+
+# Contact
+
+Thank you for visiting my portfolio!
+
+If you'd like to learn more about my work, feel free to connect with me.
+
+- 💼 LinkedIn: www.linkedin.com/in/natasha-de-lima
+- 💻 GitHub: https://github.com/NatashadeLima
+
+---
+
+© 2026 Natasha de Lima
+
+Professional Growth Portfolio
