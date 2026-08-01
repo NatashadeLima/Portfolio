@@ -27,7 +27,7 @@ This portfolio showcases my academic journey, technical projects, professional e
 
 ### 🌱 Spiritual Portfolio
 
-> Learn about the guiding principles that shape my life and career.
+> Explore the scriptures, personal experiences, and reflections that have strengthened my faith and shaped my values, helping me grow both personally and professionally.
 
 ➡️ [Open Spiritual Portfolio](spiritual.md)
 
@@ -51,7 +51,7 @@ This portfolio showcases my academic journey, technical projects, professional e
 
 ### 💼 Professional Portfolio
 
-> Read about my career goals, skills, and experiences.
+> Learn about my education, work experience, technical skills, certifications, and long-term career goals in Information Technology.
 
 ➡️ [Open Professional Portfolio](professional.md)
 
@@ -59,7 +59,7 @@ This portfolio showcases my academic journey, technical projects, professional e
 
 ### 💻 Technical Projects
 
-> View projects that helped me develop my IT knowledge.
+> Explore hands-on projects in cybersecurity, networking, cloud computing, Windows Server, Linux, and Python that demonstrate my technical growth throughout this program.
 
 ➡️ [Open Projects](projects.md)
 
@@ -87,8 +87,9 @@ Thank you for visiting my portfolio!
 
 If you'd like to learn more about my work, feel free to connect with me.
 
-- 💼 LinkedIn: www.linkedin.com/in/natasha-de-lima
-- 💻 GitHub: https://github.com/NatashadeLima
+- 💼 **LinkedIn:** <https://www.linkedin.com/in/natasha-de-lima>
+
+- 💻 **GitHub:** <https://github.com/NatashadeLima>
 
 ---
 
