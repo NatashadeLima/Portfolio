@@ -23,6 +23,8 @@ This portfolio showcases my academic journey, technical projects, professional e
 - ⚖️ [Ethical Dilemma](ethical-dilemma.md)
 - 🌟 [Reflection](reflection.md)
 
+Below you will find each section of my portfolio. Together, they represent my academic achievements, professional preparation, technical development, and spiritual growth throughout this course.
+
 ## Explore My Portfolio
 
 ### 🌱 Spiritual Portfolio
