@@ -13,3 +13,5 @@ Spiritually, this course reminded me that faith and professional growth are not 
 Looking forward, I plan to continue expanding my technical knowledge while remaining committed to ethical leadership and lifelong learning. I hope to use my education and experience to help organizations solve complex problems, improve accessibility, and make technology a positive influence in people's lives.
 
 This portfolio represents more than a collection of assignments. It reflects my journey, my growth, and my commitment to continually becoming a better student, professional, and disciple of Jesus Christ.
+
+[⬅ Back to Home](index.md)
