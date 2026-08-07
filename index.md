@@ -88,6 +88,8 @@ Explore my long-term spiritual and professional goals and the action steps I wil
 
 ➡️ [Open Future Development Plan](future-plan.md)
 
+---
+
 ### 📝 Final Reflection
 Read my reflections on how this course shaped my technical skills, spiritual growth, and future career goals.
 
