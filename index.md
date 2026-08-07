@@ -22,6 +22,9 @@ This portfolio showcases my academic journey, technical projects, professional e
 - 💻 [Technical Projects](projects.md)
 - ⚖️ [Ethical Dilemma](ethical-dilemma.md)
 - 🌟 [Reflection](reflection.md)
+- 🌱 [Future Development Plan](future-plan.md)
+- 👥 [Peer Review](peer-review.md)
+- 📝 [Final Reflection](final-reflection.md)
 
 Below you will find each section of my portfolio. Together, they represent my academic achievements, professional preparation, technical development, and spiritual growth throughout this course.
 
@@ -90,7 +93,7 @@ Explore my long-term spiritual and professional goals and the action steps I wil
 
 ---
 
-## Peer Review
+## 👥 Peer Review
 
 As part of this course, I completed a peer review of a classmate's Spiritual Progression and Professional Growth Portfolio. This experience allowed me to provide constructive feedback, reflect on another student's work, and apply new ideas to improve my own portfolio.
 
