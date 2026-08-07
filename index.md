@@ -83,6 +83,18 @@ Below you will find each section of my portfolio. Together, they represent my ac
 
 ---
 
+### 🌱 Future Development Plan
+Explore my long-term spiritual and professional goals and the action steps I will take to continue growing.
+
+➡️ [Open Future Development Plan](future-plan.md)
+
+### 📝 Final Reflection
+Read my reflections on how this course shaped my technical skills, spiritual growth, and future career goals.
+
+➡️ [Open Final Reflection](final-reflection.md)
+
+---
+
 # Contact
 
 Thank you for taking the time to explore my portfolio.
